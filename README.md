@@ -1,3 +1,23 @@
+# Experimental Results
+
+## [VIEW ALL REAL EXPERIMENT SCREENSHOTS](RESULTS.md)
+
+### Benchmark: 1,000 images
+![Benchmark results](evidence/img-087.png)
+
+### Execution Time
+![Latency results](evidence/img-088.png)
+
+### RAM Comparison
+![Memory results](evidence/img-089.png)
+
+### Classification Accuracy
+![Accuracy results](evidence/img-103.png)
+
+### Verification
+![All verified](evidence/img-091.png)
+
+---
 # Embedded Linux with Yocto, Edge AI and QEMU Driver
 
 **Embedded Systems, Group 4.**
